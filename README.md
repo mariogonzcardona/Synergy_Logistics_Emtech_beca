@@ -1,0 +1,1 @@
+# Synergy_Logistics_Emtech_beca_django
