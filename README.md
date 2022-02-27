@@ -2,7 +2,8 @@
 ![santander](https://emtech.digital/santanderskills/landing/img/santander_1.png)
 
 ![EmTech](https://emtech.digital/santanderskills/landing/img/logo_emtech.png)
-## _Proyecto Synergy Logistics_
+
+# Proyecto Synergy Logistics
 
 Este proyecto está desarrollado en Python 3.9
 
@@ -30,10 +31,9 @@ En este proyecto se enlistan las siguientes librerías para poder desarrollar lo
 | tabulate | 0.8.9 |
 | tzdata | 2021.5 |
 
-
 ## Instalación
 
-Para poder ejecutar el programa es neceario crear un ambiente virtual e instalar las dependencias en el archivo requirements.txt, ejecute main.py.
+Para poder ejecutar el programa es necesario crear un ambiente virtual e instalar las dependencias en el archivo requirements.txt, ejecute main.py.
 
 ```sh
 virtualenv env
@@ -48,24 +48,24 @@ Se realizo el proyecto en Google Colab, para realizar y comprobar los resultados
 #### Proyecto Relacionado
 - [Google Colaboratory](https://colab.research.google.com/drive/1q4Q2mAKcIbEAHZw89yywpDY9MzjVaHRY?usp=sharing): Este proyecto está elaborado para comprobar la obtención de resultados a través de Pandas.
 
-### Imagenes Librerias y DataFrame de Pandas
+### Imágenes Librerías y DataFrame de Pandas
 ![google_imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_imports.png?raw=true)
 ![google_df](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_dataframe.png?raw=true)
 
-### Imagenes Opcion 1
+### Imágenes Opción 1
 ![google_opt1_imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt1_imp.png?raw=true)
 ![google_opt1_exp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt1_exp.png?raw=true)
 
-### Imagenes Opcion 2
+### Imágenes Opción 2
 ![google_opt2](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt2.png?raw=true)
 ![google_opt2_graf](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt2_grf.png?raw=true)
 
-### Imagenes Opcion 3
+### Imágenes Opción 3
 ![google_opt3_imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt3_imp.png?raw=true)
 ![google_opt3_exp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_opt3_exp.png?raw=true)
 
 ## Ejecución en Consola
-Este programa cuenta con un login y un register a traves de un menu interactivo por consola
+Este programa cuenta con un login y un register a través de un menú interactivo por consola
 
 #### Primera sección Login, Register y Exit:
 ```sh
@@ -100,10 +100,9 @@ Select an option: 1
 --------------------------------------------------
 ```
 
-####  Punto 1: Rutas mas demandadas para importaciones y exportaciones.
+#### Punto 1: Rutas más demandadas para importaciones y exportaciones.
 ![Opt1_Imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/Opt1_Imp.png?raw=true)
 ![Opt1_Exp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/Opt1_Exp.png?raw=true)
-
 
 #### Para las opciones del Punto 2:
 ```sh
@@ -114,10 +113,9 @@ Select an option: 1
 --------------------------------------------------
 ```
 
-#### Punto 2: Tipos de transporte mas demandados para importaciones y exportaciones.
+#### Punto 2: Tipos de transporte más demandados para importaciones y exportaciones.
 ![Opt1_Imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/Opt2_Imp.png?raw=true)
 ![Opt1_Exp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/Opt2_Exp.png?raw=true)
-
 
 #### Para las opciones del Punto 3:
 ```sh
