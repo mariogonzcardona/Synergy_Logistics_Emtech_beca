@@ -46,7 +46,7 @@ python main.py
 Se realizo el proyecto en Google Colab, para realizar y comprobar los resultados de acuerdo a los tres puntos solicitados, a continuación, se muestran algunas imágenes de la ejecución del programa.
 
 #### Proyecto Relacionado
-- [Google Colaboratory](https://colab.research.google.com/drive/1q4Q2mAKcIbEAHZw89yywpDY9MzjVaHRY?usp=sharing): Este proyecto está elaborado para comprobar la obtención de resultados a través de Pandas.
+- [Synergy Logistics Colab](https://colab.research.google.com/drive/1q4Q2mAKcIbEAHZw89yywpDY9MzjVaHRY?usp=sharing): Este proyecto está elaborado para comprobar la obtención de resultados a través de Pandas.
 
 ### Imágenes Librerías y DataFrame de Pandas
 ![google_imp](https://github.com/mariogonzcardona/Synergy_Logistics_Emtech_beca/blob/main/Fotos/google_imports.png?raw=true)
